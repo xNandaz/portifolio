@@ -1,4 +1,7 @@
-Ferramentas utilizadas:
-HTML, 
-CSS e
-Flex-Box
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
