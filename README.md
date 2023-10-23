@@ -1,4 +1,4 @@
 Ferramentas utilizadas:
-HTML
-CSS
+HTML, 
+CSS e
 Flex-Box
